@@ -26,16 +26,3 @@ Sebuah aplikasi inovatif yang dirancang khusus untuk membantu meningkatkan efisi
 3. Pastikan versi SDK dan dependensi yang diperlukan telah diinstal..
 5. Tambahkan `BASE_URL=https://YOUR_API_KEY` di file `RetrofitInstance` (API Masih Lokal).
 6. Build dan run di aplikasi Android Studio.
-
-
-## Sukasrana Mobile Team
-
-| Role                  | Name                | 
-| --------------------- | ------------------- |
-| SCRUM Master & Hacker | Gilang Rizki Putra  | 
-| Hipster               | Nabil Zerma Maulana |
-| Hipster               | Lukman Adil Wibowo  | 
-| Hacker                | Ahmat Fauzi         | 
-
-
-# Peka
